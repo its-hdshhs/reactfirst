@@ -11,7 +11,7 @@ function Navbar() {
     <nav className="bg-emerald-600 p-4">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
-        <h1 className="text-2xl sm:text-3xl text-white">AI Wallet-Hub</h1>
+        <h1 className="text-2xl sm:text-3xl text-white">Ai wallet by aditya</h1>
 
         {/* Hamburger Icon */}
         <button
